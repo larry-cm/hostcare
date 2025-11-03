@@ -18,7 +18,7 @@ export const featuresContent = [
       'Atención al cliente en español y portugués con técnicos especializados disponibles todo el día, todos los días.',
   },
   {
-    icon: 'mail',
+    icon: 'creditCard',
     title: 'Pagos Locales',
     description:
       'Acepta pagos con tarjetas locales, OXXO, PSE, Mercado Pago, transferencias bancarias y criptomonedas.',
@@ -30,7 +30,7 @@ export const featuresContent = [
       'Certificados SSL/TLS gratuitos incluidos con todos los planes para proteger tu sitio web y datos.',
   },
   {
-    icon: 'globe',
+    icon: 'mail',
     title: 'Correo Corporativo',
     description:
       'Bandejas de correo personalizadas con tu dominio, anti-spam, filtros avanzados y webmail incluido.',
